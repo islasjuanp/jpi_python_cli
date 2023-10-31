@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-python-cli = {path = "./dist/python_cli-0.1.tar.gz"}
+jpi-python-cli = {path = "./dist/jpi_python_cli-0.1.tar.gz"}
 
 [dev-packages]
 
