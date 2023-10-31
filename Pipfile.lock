@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d0d7843e865cbdde49c8ae4c26b6f076ffdba4d0853c0fa47ccc2c82e9303f19"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.9.6",
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "python-cli": {
+            "hashes": [
+                "sha256:9c1322427ab989c45e4a4dee608f08be495ca45cb359b78c1bfb7d73dc37cf3a"
+            ],
+            "path": "./dist/python_cli-0.1.tar.gz",
+            "version": "==0.1"
+        }
+    },
+    "develop": {}
+}
